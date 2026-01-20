@@ -1,6 +1,6 @@
 # **Project Saika**
 
-**Autor:** Dragoland
+**Autor:** Dragoland         
 **Empresa**: SaikaNET Studio  
 **Fecha de Conceptualización:** Enero, 2026  
 **Estado del Documento:** Planeacion
