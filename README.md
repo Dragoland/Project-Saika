@@ -1,7 +1,7 @@
 # **Project Saika**
 
-**Autor:** Dragoland         
-**Empresa**: SaikaNET Studio  
+**Autor:** [Dragoland](https://github.com/Dragoland)         
+**Empresa**: SaikaNET Studio (Proximamente) 
 **Fecha de Conceptualización:** Enero, 2026  
 **Estado del Documento:** Planeacion        
 **Filosofía Central:** *"Las computadoras, son creyentes y los usuarios, sus dioses."*
